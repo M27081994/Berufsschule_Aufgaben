@@ -3,6 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+// Für dieses Programm wird auch noch das File Game.java mit der Main-Funktion gebraucht
 package schere_stein_papier_gegenpc;
 import java.util.Scanner;
 import javax.swing.*;
